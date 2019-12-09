@@ -1,0 +1,1 @@
+Context API provides a way to share values between components without having to explicitly pass a prop through every level of the tree. We use Context when we have global data that lots of components share (things like user or theme) or when we have to pass data through intermediate components. The API can help keep your state relatively clean.
